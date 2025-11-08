@@ -3,7 +3,7 @@
 This is my personal portfolio website built with HTML, Tailwind CSS, and JavaScript.
 It showcases my skills, projects, certifications, and achievements as a Full Stack Developer & AI Specialist.
 
-🔗 Live Preview: Portfolio Website
+🔗 Live Preview: [Portfolio Website](https://chand6756.github.io/My_Potfolio/)
 
 📄 Resume: Download Resume
 
