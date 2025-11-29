@@ -7,7 +7,7 @@ It showcases my skills, projects, certifications, and achievements as a Full Sta
 
 📄 Resume: Download Resume
 
-🚀 Features
+🚀 Features :
 
 Responsive Design – Works seamlessly across desktops, tablets, and mobiles.
 
